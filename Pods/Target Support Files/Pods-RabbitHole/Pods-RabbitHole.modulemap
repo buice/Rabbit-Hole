@@ -1,0 +1,6 @@
+framework module Pods_RabbitHole {
+  umbrella header "Pods-RabbitHole-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1 @@
+Open from the .xcworkspace fileIf there are build errors, try updating and reinstalling the cocoapod in the project file
